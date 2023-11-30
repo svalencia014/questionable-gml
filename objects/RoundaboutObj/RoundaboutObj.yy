@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "RandomSpace",
-    "path": "sprites/RandomSpace/RandomSpace.yy",
+    "name": "RoundaboutSpace",
+    "path": "sprites/RoundaboutSpace/RoundaboutSpace.yy",
   },
   "spriteMaskId": {
     "name": "BurnSpace",

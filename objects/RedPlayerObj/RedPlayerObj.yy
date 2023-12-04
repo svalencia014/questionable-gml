@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "SkipObj",
+  "name": "RedPlayerObj",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -24,14 +24,11 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "SkipSpace",
-    "path": "sprites/SkipSpace/SkipSpace.yy",
+    "name": "RedPlayerSprite",
+    "path": "sprites/RedPlayerSprite/RedPlayerSprite.yy",
   },
-  "spriteMaskId": {
-    "name": "BurnSpace",
-    "path": "sprites/BurnSpace/BurnSpace.yy",
-  },
+  "spriteMaskId": null,
   "visible": true,
 }

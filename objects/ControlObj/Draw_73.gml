@@ -6,5 +6,5 @@
 
 draw_set_color(c_white);
 draw_set_alpha(1);
-message_layer.draw_text(190, 500, "The current player is " + active_player + "\n Press 'r' to roll");
+draw_text(190, 500, "The current player is " + active_player + "\n Press 'r' to roll");
 

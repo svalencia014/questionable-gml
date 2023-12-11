@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"EndSpace","path":"sprites/EndSpace/EndSpace.yy",},},
+    {"id":{"name":"instance_nth_nearest","path":"scripts/instance_nth_nearest/instance_nth_nearest.yy",},},
     {"id":{"name":"ControlObj","path":"objects/ControlObj/ControlObj.yy",},},
     {"id":{"name":"EndObj","path":"objects/EndObj/EndObj.yy",},},
     {"id":{"name":"WaterObj","path":"objects/WaterObj/WaterObj.yy",},},

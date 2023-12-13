@@ -57,6 +57,7 @@
     {"id":{"name":"StartObj","path":"objects/StartObj/StartObj.yy",},},
     {"id":{"name":"ChallengeSpace","path":"sprites/ChallengeSpace/ChallengeSpace.yy",},},
     {"id":{"name":"RedPlayerObj","path":"objects/RedPlayerObj/RedPlayerObj.yy",},},
+    {"id":{"name":"KeyboardRSprite","path":"sprites/KeyboardRSprite/KeyboardRSprite.yy",},},
     {"id":{"name":"BlankSpace","path":"sprites/BlankSpace/BlankSpace.yy",},},
     {"id":{"name":"BurnSpace","path":"sprites/BurnSpace/BurnSpace.yy",},},
     {"id":{"name":"StartSpace","path":"sprites/StartSpace/StartSpace.yy",},},

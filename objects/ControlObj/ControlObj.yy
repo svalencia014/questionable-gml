@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "KeyboardRSprite",
+    "path": "sprites/KeyboardRSprite/KeyboardRSprite.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

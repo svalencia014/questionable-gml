@@ -37,6 +37,7 @@
     {"name":"StartObj","order":9,"path":"objects/StartObj/StartObj.yy",},
     {"name":"ChallengeSpace","order":2,"path":"sprites/ChallengeSpace/ChallengeSpace.yy",},
     {"name":"RedPlayerObj","order":11,"path":"objects/RedPlayerObj/RedPlayerObj.yy",},
+    {"name":"KeyboardRSprite","order":12,"path":"sprites/KeyboardRSprite/KeyboardRSprite.yy",},
     {"name":"BurnSpace","order":1,"path":"sprites/BurnSpace/BurnSpace.yy",},
     {"name":"StartSpace","order":8,"path":"sprites/StartSpace/StartSpace.yy",},
     {"name":"SkipObj","order":8,"path":"objects/SkipObj/SkipObj.yy",},

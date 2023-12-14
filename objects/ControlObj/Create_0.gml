@@ -4,3 +4,4 @@ current_player = ["red", "blue", "green", "yellow"];
 player_number = 0;
 active_player = current_player[player_number];
 
+sprite_index = KeyboardRSprite

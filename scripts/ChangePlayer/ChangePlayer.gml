@@ -6,5 +6,5 @@ function change_player() {
 	} else {
 		ControlObj.player_number++;
 	}
-	ControlObj.has_rolled = !ControlObj.has_rolled
+	ControlObj.has_rolled = false
 }
